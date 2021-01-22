@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.andy.uml.demo1.Dependency</OriginalElement>
+  <nodes>
+    <node x="0.0" y="0.0">com.andy.uml.demo1.Department</node>
+    <node x="264.0" y="0.0">com.andy.uml.demo1.Person</node>
+    <node x="148.0" y="0.0">com.andy.uml.demo1.IDCard</node>
+    <node x="380.0" y="0.0">com.andy.uml.demo1.PersonDao</node>
+    <node x="105.5" y="103.0">com.andy.uml.demo1.Dependency</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.andy.uml.demo1.Dependency" target="com.andy.uml.demo1.IDCard">
+      <point x="0.0" y="-72.0" />
+      <point x="0.0" y="26.5" />
+    </edge>
+    <edge source="com.andy.uml.demo1.Dependency" target="com.andy.uml.demo1.Department">
+      <point x="-36.19999999999999" y="-72.0" />
+      <point x="159.8" y="73.0" />
+      <point x="96.0" y="73.0" />
+      <point x="32.0" y="26.5" />
+    </edge>
+    <edge source="com.andy.uml.demo1.Dependency" target="com.andy.uml.demo1.Person">
+      <point x="36.19999999999999" y="-72.0" />
+      <point x="232.2" y="73.0" />
+      <point x="312.0" y="73.0" />
+      <point x="0.0" y="26.5" />
+    </edge>
+    <edge source="com.andy.uml.demo1.Dependency" target="com.andy.uml.demo1.PersonDao">
+      <point x="72.39999999999998" y="-72.0" />
+      <point x="268.4" y="83.0" />
+      <point x="440.0" y="83.0" />
+      <point x="0.0" y="26.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="250.0" y="123.5" />
+  <SelectedNodes>
+    <node>com.andy.uml.demo1.Dependency</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.andy.uml.demo3.UserServiceImpl</OriginalElement>
+  <nodes>
+    <node x="16.0" y="0.0">com.andy.uml.demo3.UserService</node>
+    <node x="0.0" y="105.0">com.andy.uml.demo3.UserServiceImpl</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.andy.uml.demo3.UserServiceImpl" target="com.andy.uml.demo3.UserService">
+      <point x="0.0" y="-27.5" />
+      <point x="0.0" y="27.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="84.0" y="78.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
